@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Speedy Circle</string>
+    <string name="time">Time</string>
+    <string name="score">Score</string>
+    <string name="tap_circle">Tap The Circle</string>
+    <string name="best_score">Best Score</string>
+    <string name="your_score">Your Score</string>
+    <string name="play">Play!</string>
+    <string name="exit">Exit</string>
+</resources>
