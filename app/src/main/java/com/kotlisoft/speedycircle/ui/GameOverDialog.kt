@@ -36,7 +36,7 @@ fun GameOverDialog(
         Column(
             modifier = Modifier
                 .clip(RoundedCornerShape(8.dp))
-                .background(Color.Yellow)
+                .background(Color.White)
                 .padding(16.dp),
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
